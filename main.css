@@ -81,6 +81,7 @@ body {
 }
 .jumbotron {
   margin: 0;
+  background-color: #B8B8B8;
 }
 input[type=text], select, textarea {
   width: 100%;
@@ -166,4 +167,14 @@ footer {
     'getaway'
     'pizza'
   }
+}
+.btn {
+  width: 100%;
+  background-color: grey;
+  height: 50px;
+  text-align: center;
+  font-size: 14pt;
+}
+.text {
+  margin: 20px;
 }
